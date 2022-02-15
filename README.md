@@ -1,2 +1,2 @@
 # nlu
-Code for naturallanguage understanding, theory and practice
+Code for natural language understanding, theory and practice
